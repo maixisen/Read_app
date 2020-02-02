@@ -1,0 +1,8 @@
+platform :ios, '10.0'
+target 'ClothRead' do
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'GTMBase64'
+pod 'MJExtension'
+pod 'MBProgressHUD'
+end
